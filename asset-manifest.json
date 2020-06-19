@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/www.signedgift.com/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/www.signedgift.com/static/js/main.11df3a1a.chunk.js",
-    "main.js.map": "/www.signedgift.com/static/js/main.11df3a1a.chunk.js.map",
-    "runtime-main.js": "/www.signedgift.com/static/js/runtime-main.31c17318.js",
-    "runtime-main.js.map": "/www.signedgift.com/static/js/runtime-main.31c17318.js.map",
-    "static/js/2.2aa328d3.chunk.js": "/www.signedgift.com/static/js/2.2aa328d3.chunk.js",
-    "static/js/2.2aa328d3.chunk.js.map": "/www.signedgift.com/static/js/2.2aa328d3.chunk.js.map",
-    "index.html": "/www.signedgift.com/index.html",
-    "precache-manifest.390bab18fd590aca3ed521f83eab6810.js": "/www.signedgift.com/precache-manifest.390bab18fd590aca3ed521f83eab6810.js",
-    "service-worker.js": "/www.signedgift.com/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/www.signedgift.com/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.2aa328d3.chunk.js.LICENSE.txt": "/www.signedgift.com/static/js/2.2aa328d3.chunk.js.LICENSE.txt",
-    "static/media/pic1.png": "/www.signedgift.com/static/media/pic1.f4f90f6f.png",
-    "static/media/pic2.png": "/www.signedgift.com/static/media/pic2.28f58851.png",
-    "static/media/pic3.jpg": "/www.signedgift.com/static/media/pic3.17e2e65e.jpg"
+    "main.css": "/Test/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Test/static/js/main.4605a040.chunk.js",
+    "main.js.map": "/Test/static/js/main.4605a040.chunk.js.map",
+    "runtime-main.js": "/Test/static/js/runtime-main.e7295b1f.js",
+    "runtime-main.js.map": "/Test/static/js/runtime-main.e7295b1f.js.map",
+    "static/js/2.3396d055.chunk.js": "/Test/static/js/2.3396d055.chunk.js",
+    "static/js/2.3396d055.chunk.js.map": "/Test/static/js/2.3396d055.chunk.js.map",
+    "index.html": "/Test/index.html",
+    "precache-manifest.2bcd219c9aa689bdedb0b64524c9a6b4.js": "/Test/precache-manifest.2bcd219c9aa689bdedb0b64524c9a6b4.js",
+    "service-worker.js": "/Test/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Test/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.3396d055.chunk.js.LICENSE.txt": "/Test/static/js/2.3396d055.chunk.js.LICENSE.txt",
+    "static/media/pic1.png": "/Test/static/media/pic1.f4f90f6f.png",
+    "static/media/pic2.png": "/Test/static/media/pic2.28f58851.png",
+    "static/media/pic3.jpg": "/Test/static/media/pic3.17e2e65e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.31c17318.js",
-    "static/js/2.2aa328d3.chunk.js",
+    "static/js/runtime-main.e7295b1f.js",
+    "static/js/2.3396d055.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.11df3a1a.chunk.js"
+    "static/js/main.4605a040.chunk.js"
   ]
 }
