@@ -2,7 +2,7 @@ import React from 'react'
 
 export const MyGifts = () => (
     <div>
-        <h2>What about us?</h2>
-        <p>About Timmy.</p>
+        <h2>Gift?</h2>
+        <p>Gifting something</p>
     </div>
 )
