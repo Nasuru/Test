@@ -1,5 +1,5 @@
 import React from 'react';
-import {  HashRouter, Route, Link } from 'react-router-dom';
+import {  BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import { Home } from './Home';
 import { MyGifts } from './MyGifts';
 import { Login } from './Login';
@@ -40,11 +40,14 @@ function App() {
         </Carousel.Item>
     </Carousel>
       <Layout>
-        <HashRouter basename="/">
+        <Router>
+          <Switch>
             <Route exact path="/" component={Home}/>
             <Route path="/my-gifts" component={MyGifts}/>
             <Route path="/login" component={Login}/>
-        </HashRouter>
+            <Route component={NoMatch}/>
+          </Switch>
+        </Router>
       </Layout>
     </React.Fragment>
   );
